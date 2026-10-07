@@ -1,0 +1,1 @@
+const produto = new Produto("Caderno", 25.90);
